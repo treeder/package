@@ -11,5 +11,12 @@
   "devDependencies": {
     "api": "github:treeder/api",
     "testkit": "github:treeder/testkit"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "all",
+    "printWidth": 120
   }
 }

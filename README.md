@@ -23,7 +23,7 @@ Or from CDN:
 ```js
 import { yourExport } from 'https://cdn.jsdelivr.net/gh/yourorg/yourrepo@9/'
 ```
-
+ 
 ## Testing
 
 Add more tests to [test/test.js], super easy. Uses [TestKit](https://github.com/treeder/testkit).
